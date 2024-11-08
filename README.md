@@ -1,6 +1,6 @@
 # soc
 
-## Introduction:
+### Introduction:
 
 - What is a Cryptocurrency?
 - Crypto As A New Asset Class
@@ -8,4 +8,4 @@
 - Getting Started With Bitcoin
 
 
-## Beginner's Guide to Bitcoin
+### Beginner's Guide to Bitcoin:
