@@ -9,3 +9,6 @@
 
 
 ### Beginner's Guide to Bitcoin:
+
+- What is Bitcoin?
+- Why Was Bitcoin Created?
