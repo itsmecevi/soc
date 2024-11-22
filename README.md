@@ -12,3 +12,4 @@
 
 - What is Bitcoin?
 - Why Was Bitcoin Created?
+- What Problems Did Bitcoin Solve?
