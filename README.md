@@ -14,3 +14,4 @@
 - Why Was Bitcoin Created?
 - What Problems Did Bitcoin Solve?
 - What is a Distributed Ledger?
+- The Bitcoin System and Its Components
