@@ -15,3 +15,6 @@
 - What Problems Did Bitcoin Solve?
 - What is a Distributed Ledger?
 - The Bitcoin System and Its Components
+
+### Beginner's Guide to the Bitcoin Network:
+
