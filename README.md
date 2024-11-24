@@ -20,4 +20,6 @@
 
 - What is a Network?
 - What is the Bitcoin Network?
+- What Does the Bitcoin Network Do?
+- What is a Bitcoin Node?
 
