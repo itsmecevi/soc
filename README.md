@@ -19,4 +19,5 @@
 ### Beginner's Guide to the Bitcoin Network:
 
 - What is a Network?
+- What is the Bitcoin Network?
 
